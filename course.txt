@@ -1,0 +1,4 @@
+name       point     
+math       4.0       
+chinese    5.0       
+english    3.0       

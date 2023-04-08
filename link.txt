@@ -1,0 +1,9 @@
+student_no course_name score     
+001        math       90.0      
+001        chinese    80.0      
+002        english    70.0      
+003        math       88.0      
+003        english    85.0      
+004        math       72.0      
+004        chinese    77.0      
+005        english    94.0      
